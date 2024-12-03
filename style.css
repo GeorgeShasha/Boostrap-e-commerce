@@ -311,7 +311,6 @@ body {
   font-size: 15px;
 }
 
-
 /* ...............................best sellers section................................. */
 
 .new-products {
@@ -380,4 +379,70 @@ body {
 .footer .row i {
   padding-right: 10px;
   font-size: 15px;
+}
+
+/* ...............................single product................................. */
+
+.single-product {
+  margin-top: 70px;
+}
+
+.col-md-7 {
+  color: #555;
+}
+
+.new-arrival {
+  background: green;
+  width: 50px;
+  color: aliceblue;
+  font-size: 12px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.single-product i {
+  color: gold;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.single-product .product-price {
+  color: #ff523b;
+  font-size: 26px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+.single-product input {
+  border: 1px solid #ccc;
+  font-weight: bold;
+  height: 33px;
+  text-align: center;
+  width: 30px;
+  margin-right: 5px;
+}
+
+.single-product .btn-primary {
+  background: #ff523b !important;
+  color: aliceblue;
+  font-size: 15px;
+  margin-left: 20px;
+  border: none;
+  box-shadow: none !important;
+}
+
+/* ...............................Product Description................................. */
+
+.product-description h6 {
+  margin-top: 50px;
+  color: #ff523b;
+}
+
+.product-description p {
+  margin-top: 30px;
+}
+
+.product-description hr {
+  margin-bottom: 50px;
+  color: #ff523b;
 }
